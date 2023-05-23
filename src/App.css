@@ -112,11 +112,19 @@
         width: 80%;
         height: 50%;
     }
+
+    .button{
+        height: 30%;
+    }
   }
 
   @media only screen and (max-width: 680px){
       .card{
           width: 80%;
           height: 50%;
+    }
+
+    .button{
+        height: 30%;
     }
   }
