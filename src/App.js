@@ -36,10 +36,8 @@ class App extends React.Component {
                        </span>
                    </button>
                </div>
-
            </div>
 
-           
         );
     }
 }

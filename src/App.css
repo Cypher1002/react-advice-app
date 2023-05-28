@@ -18,7 +18,7 @@
 }
 
 .card{
-    background-color: whitesmoke;
+    background-color: rgb(129, 228, 228);
     width: 40%;
     height: 40%;
     display: flex;
@@ -28,6 +28,7 @@
     border-radius: 25px;
     padding: 2%;
     box-shadow: 10px 10px;
+    border: 2px solid orange;
 }
 
 .heading{
@@ -55,13 +56,14 @@
     
   .button span {
     color: #164ca7;
-    font-size: 12px;
-    font-weight: 500;
+    font-size: 15px;
+    font-weight: bold;
     letter-spacing: 0.7px;
   }
     
   .button:hover {
     animation: rotate 0.7s ease-in-out both;
+    background-color: rgb(118, 243, 124);
   }
     
   .button:hover span {
